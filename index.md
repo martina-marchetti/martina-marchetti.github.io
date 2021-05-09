@@ -1,7 +1,3 @@
-<img align="center" width="64" height="64" src="https://github.com/martina-marchetti/martina-marchetti.github.io/blob/main/images/email.png">
-<img align="center" width="63.4" height="54" src="https://github.com/martina-marchetti/martina-marchetti.github.io/blob/main/images/linkedin.png"> 
-<br>
-
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/martina-marchetti/martina-marchetti.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
