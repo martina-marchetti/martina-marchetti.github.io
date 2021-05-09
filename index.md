@@ -1,4 +1,6 @@
-<img align="left" width="100" height="100" src="https://github.com/martina-marchetti/martina-marchetti.github.io/images/email.png">
+<img align="center" width="64" height="64" src="https://github.com/martina-marchetti/martina-marchetti.github.io/blob/main/images/email.png">
+<img align="center" width="63.4" height="54" src="https://github.com/martina-marchetti/martina-marchetti.github.io/blob/main/images/linkedin.png"> 
+<br>
 
 ## Welcome to GitHub Pages
 
